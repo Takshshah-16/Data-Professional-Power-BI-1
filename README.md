@@ -55,7 +55,8 @@ This report provides an in-depth analysis of the **Data Professional Survey data
 ---  
 
 ## How to Use  
-1. **Download Report:** Clone this repository or download the attached Power BI file.  
+1. **Download Report:** Clone this repository or download the attached Power BI file. [Power BI Report](https://raw.githubusercontent.com/Takshshah-16/Data-Professional-Power-BI-1/main/DataProfessionalSurveyReport.pbix)
+
 2. **Open in Power BI Desktop:** Use the free Power BI desktop tool to view or interact with the dashboard.  
 3. **Explore Insights:** Filter by job title, geography, and satisfaction metrics for tailored insights.  
 
