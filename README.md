@@ -46,7 +46,9 @@ This report provides an in-depth analysis of the **Data Professional Survey data
 ---  
 
 ## Technology Stack  
-- **Dataset:** Data Professional Survey Dataset  
+- **Dataset:** Data Professional Survey Dataset [Download the Sales Analysis Dashboard](https://raw.githubusercontent.com/Takshshah-16/Data-Professional-Power-BI-1/main/Projectdataset1.xlsx)
+
+                                                
 - **Visualization Tool:** Power BI  
 - **Features Used:** Tree maps, bar charts, gauge charts, pie charts  
 
